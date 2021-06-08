@@ -13,6 +13,9 @@ We would like to maintain a complete list of super-resolution papers.
 |:--------|:--------|:--------:|
 | 2021 | [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)  | [Github](https://github.com/ckkelvinchan/BasicVSR-IconVSR)  |
 | 2021 | [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)  | [Github](https://github.com/Xiangtaokong/ClassSR)  |
+| 2020 | [Pre-trained image processing transformer]( https://arxiv.org/pdf/2012.00364.pdf) The code is third party Pytorch implement | [Github](https://github.com/perseveranceLX/ImageProcessingTransformer)  |
+| 2020 | []()  | [Github]()  |
+| 2020 | []()  | [Github]()  |
 
 
 ### CVPR2021
@@ -57,5 +60,9 @@ We would like to maintain a complete list of super-resolution papers.
 | 2020 | [Journey Towards Tiny Perceptual Super-Resolution]( https://arxiv.org/abs/2007.04356)  |  |
 | 2020 | [LatticeNet: Towards Lightweight Image Super-resolution with Lattice Block](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670273.pdf)  |   |
 | 2020 | [PAMS: Quantized Super-Resolution via Parameterized Max Scale](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf)  | |
-| 2020 | []()  | [Github]()  |
+
+### Others
+| 2020 | [Omniscient Video Super-Resolution](https://arxiv.org/pdf/2103.15683.pdf)  |   |
+
+
 
