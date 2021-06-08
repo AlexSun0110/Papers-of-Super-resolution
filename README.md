@@ -1,16 +1,12 @@
 # Papers-of-Super-resolution
 
-[（中文）](https://github.com/jackguagua/awesome-nas-papers/blob/master/README_cn.md)
+We would like to maintain a complete list of super-resolution papers.
 
-We would like to maintain a complete list of NAS-related papers and provide a guide for some of the papers that have received wide interest.
 ### Table of Contents
-- [2020](#2020) (283)
-- [2019](#2019) (261)
-- [2018](#2018) (72)
-- [2017](#2017) (21)
-- [2016](#2016) (10)
-- [1988~2015](#1988-2015) (12)
-
+- [2020](#Important Paper)
+- [2019](#CVPR 2021) 
+- [2018](#ECCV 2020)
+- [2017](#Other Papers)
 
 ### Tasks
 - [Medical](#Medical) 
