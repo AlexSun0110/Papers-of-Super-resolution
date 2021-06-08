@@ -3,47 +3,12 @@
 We would like to maintain a complete list of super-resolution papers.
 
 ### Table of Contents
-- [2020](#Important Paper)
+- [Important Papers](#Important Papers)
 - [2019](#CVPR 2021) 
 - [2018](#ECCV 2020)
 - [2017](#Other Papers)
-
-### Tasks
-- [Medical](#Medical) 
-- [Image Segmentation](#Image_Segmentation) /  [Object Detection](#Object_Detection) / [Semantic Segmentation](#Semantic_Segmentation) /  [Image Recognition](#Image_Recognition) 
-- [Remote Sensing](#Remote_Sensing) 
-- [Scene Text Recognition](#Scene_Text_Recognition) 
-- [Autonomous Driving](#Autonomous_Driving) 
-
-- [Image Translator](#Image_Translator) / [Image Denoising](#Image_Denoising) 
-
-- [Language Modeling](#Language_Modeling) / [Speech Recognition](#Speech_Recognition) / [NLP](#NLP) 
-
-- [Model Compression](#Model_Compression) / [Multi-objective Search](#Multi-objective_Search) / [Binary Networks](#Binary_Networks) 
-
-- [GAN](#GAN) / [Unsupervised](#Unsupervised) 
-- [Video Models](#Video_Models) 
-- [GNN](#GNN) 
-
-- [CTR](#CTR) 
-- [Time Series](#Time_Series) 
-
-- [Federated Learning](#Federated_Learning) / [Private Inference](#Private_Inference) 
-
-- [3D Deep Learning](#3D_Deep_Learning) 
-- [Multimodal Learning](#Multimodal_Learning) 
-- [Imitation Learning](#Imitation_Learning) 
-- [Meta-learning](#Meta-learning) 
-- [Distributed System](#Distributed_System) 
-- [Benchmark](#Benchmark) 
-
-- 
-
-
  
-### Medical
-
-- [back to top](#Tasks)
+### Important Papers
 
 |Year |  Title  |  Code   |
 |:--------|:--------|:--------:|
