@@ -13,10 +13,11 @@ We would like to maintain a complete list of super-resolution papers.
 |:--------|:--------|:--------:|
 | 2021 | [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)  | [Github](https://github.com/ckkelvinchan/BasicVSR-IconVSR)  |
 | 2021 | [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)  | [Github](https://github.com/Xiangtaokong/ClassSR)  |
-| 2020 | [Pre-trained image processing transformer]( https://arxiv.org/pdf/2012.00364.pdf) <br>*The code is third party Pytorch implement.*  | [Github](https://github.com/perseveranceLX/ImageProcessingTransformer)  |
-| 2020 | [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075.pdf)  | [Github]()  |
-| 2020 | []()  | [Github]()  |
-
+| 2021 | [Pre-trained image processing transformer](https://arxiv.org/pdf/2012.00364.pdf) <br>*The code is third party Pytorch implement.*  | [Github](https://github.com/perseveranceLX/ImageProcessingTransformer)  |
+| 2021 | [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075.pdf)  |   |
+| 2020 | [Perceptual Extreme Super Resolution Network with Receptive Field Block](https://arxiv.org/abs/2005.12597)  |  |
+| 2020 | [Guided Frequency Separation Network for Real-World Super-Resolution](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhou_Guided_Frequency_Separation_Network_for_Real-World_Super-Resolution_CVPRW_2020_paper.pdf) <br>*CVPR2020* |  |
+| 2020 | [Learning Texture Transformer Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Texture_Transformer_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf) <br>*CVPR2020* |  |
 
 ### CVPR2021
 
@@ -62,7 +63,7 @@ We would like to maintain a complete list of super-resolution papers.
 | 2020 | [PAMS: Quantized Super-Resolution via Parameterized Max Scale](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700562.pdf)  | |
 
 ### Others
-| 2020 | [Omniscient Video Super-Resolution](https://arxiv.org/pdf/2103.15683.pdf)  |   |
+| 2020 | [Omniscient Video Super-Resolution](https://arxiv.org/pdf/2103.15683.pdf)  <br>*NTIRE2021*  |   |
 
 
 
