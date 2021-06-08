@@ -3,13 +3,12 @@
 We would like to maintain a complete list of super-resolution papers.
 
 ### Table of Contents
-- [Important Papers](#Important Papers)
-- [2019](#CVPR 2021) 
-- [2018](#ECCV 2020)
-- [2017](#Other Papers)
+- [Important](#Important)
+- [CVPR2021](#CVPR2021) 
+- [ECCV2020](#ECCV2020)
+- [Others](#Others)
  
-### Important Papers
-
+### Important
 |Year |  Title  |  Code   |
 |:--------|:--------|:--------:|
 | 2020 | [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020)](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  |   |
@@ -26,20 +25,6 @@ We would like to maintain a complete list of super-resolution papers.
 | 2019 | [Resource Optimized Neural Architecture Search for 3D Medical Image Segmentation(Bae et al. 2019)](https://arxiv.org/abs/1909.00548)  <br>*accepted at MICCAI’19*  |   |
 | 2019 | [Self-Adaptive 2D-3D Ensemble of Fully Convolutional Networks for Medical Image Segmentation(Calisto and Lai-Yuen. 2019)](https://arxiv.org/abs/1907.11587)  <br>*accepted at SPIE Medical Imaging’20*  |   |
 | 2019 | [AdaResU-Net: Multiobjective Adaptive Convolutional Neural Network for Medical Image Segmentation(Baldeon-Calisto and Lai-Yuen. 2019.)](https://www.sciencedirect.com/science/article/pii/S0925231219304679)  <br>*accepted at Neurocomputing*  |   |
-| 2019 | [NAS-Unet: Neural Architecture Search for Medical Image Segmentation(Weng et al. 2019)](https://ieeexplore.ieee.org/document/8681706)  <br>*accepted at IEEE Access*  |   |
-| 2020 | [Efficient Oct Image Segmentation Using Neural Architecture Search(Gheshlaghi et al. 2020)](https://arxiv.org/abs/2007.14790)   |   |
-| 2020 | [MS-NAS: Multi-Scale Neural Architecture Search for Medical Image Segmentation(Yan et al. 2020)](https://arxiv.org/abs/2007.06151)   |   |
-| 2020 | [Heuristic Architecture Search Using Network Morphism for Chest X-Ray Classification(Radiuk and Kutucu 2020)](http://ceur-ws.org/Vol-2623/paper11.pdf)   |   |
-| 2020 | [Evolving Deep Neural Networks for X-ray Based Detection of Dangerous Objects(Tsukada et al. 2020)](https://link.springer.com/chapter/10.1007/978-981-15-3685-4_12)   |   |
-| 2020 | [Neural Architecture Search for Gliomas Segmentation on Multimodal Magnetic Resonance Imaging(Wang et al. 2020)](https://arxiv.org/abs/2005.06338)   |   |
-| 2020 | [AutoHR: A Strong End-to-end Baseline for Remote Heart Rate Measurement with Neural Searching(Yu et al. 2020)](https://arxiv.org/abs/2004.12292)   |   |
-| 2020 | [Organ at Risk Segmentation for Head and Neck Cancer using Stratified Learning and Neural Architecture Search(Guo et al. 2020)](https://arxiv.org/abs/2004.08426)   |   |
-| 2020 | [ElixirNet: Relation-aware Network Architecture Adaptation for Medical Lesion Detection(Jiang et al. 2020)](https://arxiv.org/abs/2003.08770)   |   |
-| 2020 | [Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020)](https://arxiv.org/abs/2002.09625)   | [Github](https://github.com/yjump/NAS-for-CSMRI) |
-| 2020 | [ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel(Fan et al. 2020)](https://arxiv.org/abs/2001.06678)   |   |
-| 2019 | [C2FNAS: Coarse-to-Fine Neural Architecture Search for 3D Medical Image Segmentation(Yu et al. 2019)](https://arxiv.org/abs/1912.09628)   |   |
-| 2019 | [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation(Wong and Moradi. 2019)](https://arxiv.org/abs/1909.05962)   |   |
-| 2019 | [V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation(Zhu et al. 2019)](https://arxiv.org/abs/1906.02817)   |   |
-| 2019 | [Efficient Neural Architecture Search on Low-Dimensional Data for OCT Image Segmentation(Gessert and Schlaefer. 2019)](https://openreview.net/forum?id=Syg3FDjntN)   |   |
-| 2018 | [Automatically Designing CNN Architectures for Medical Image Segmentation(Mortazi and Bagci 2018)](https://arxiv.org/abs/1807.07663)   |   |
+
+### CVPR2021
  
