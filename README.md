@@ -1,5 +1,4 @@
 # Papers-of-Super-resolution
-# Awesome Neural Architecture Search Papers
 
 [（中文）](https://github.com/jackguagua/awesome-nas-papers/blob/master/README_cn.md)
 
