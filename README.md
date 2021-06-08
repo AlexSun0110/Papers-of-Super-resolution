@@ -13,7 +13,7 @@ We would like to maintain a complete list of super-resolution papers.
 |:--------|:--------|:--------:|
 | 2021 | [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)  | [Github](https://github.com/ckkelvinchan/BasicVSR-IconVSR)  |
 | 2021 | [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)  | [Github](https://github.com/Xiangtaokong/ClassSR)  |
-| 2020 | [Pre-trained image processing transformer]( https://arxiv.org/pdf/2012.00364.pdf) The code is third party Pytorch implement | [Github](https://github.com/perseveranceLX/ImageProcessingTransformer)  |
+| 2020 | [Pre-trained image processing transformer]( https://arxiv.org/pdf/2012.00364.pdf) <br>*The code is third party Pytorch implement.*  | [Github](https://github.com/perseveranceLX/ImageProcessingTransformer)  |
 | 2020 | []()  | [Github]()  |
 | 2020 | []()  | [Github]()  |
 
