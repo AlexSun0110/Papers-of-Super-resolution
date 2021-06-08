@@ -12,7 +12,7 @@ We would like to maintain a complete list of super-resolution papers.
 |Year |  Title  |  Code   |
 |:--------|:--------|:--------:|
 | 2020 | [Neural Architecture Search for Compressed Sensing Magnetic Resonance Image Reconstruction(Yan et al. 2020)](https://arxiv.org/abs/2002.09625)   | [Github](https://github.com/yjump/NAS-for-CSMRI) |
-| 2020 | [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)  | [Github](https: //github.com/ckkelvinchan/BasicVSR-IconVSR)  |
+| 2020 | [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)  | [Github](https://github.com/ckkelvinchan/BasicVSR-IconVSR)  |
 | 2020 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020)](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  |   |
 | 2020 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020)](https://arxiv.org/abs/2007.06002)  <br>*accepted at MICCAI 2020*  |   |
 | 2020 | [Modeling Task-based fMRI Data via Deep Belief Network with Neural Architecture Search(Qiang et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0895611120300501)  <br>*accepted at Computerized Medical Imaging and Graphics*  |   |
