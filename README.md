@@ -17,7 +17,7 @@ We would like to maintain a complete list of super-resolution papers.
 | 2021 | [Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length](https://arxiv.org/pdf/2105.15075.pdf)  |   |
 | 2020 | [Perceptual Extreme Super Resolution Network with Receptive Field Block](https://arxiv.org/abs/2005.12597)  <br>*GAN* |  |
 | 2020 | [Guided Frequency Separation Network for Real-World Super-Resolution](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Zhou_Guided_Frequency_Separation_Network_for_Real-World_Super-Resolution_CVPRW_2020_paper.pdf) <br>*CVPR2020 频域* |  |
-| 2020 | [Learning Texture Transformer Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Texture_Transformer_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf) <br>*CVPR2020 NTIRE2021* |  |
+| 2020 | [Learning Texture Transformer Network for Image Super-Resolution](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Texture_Transformer_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf) <br>*CVPR2020 * |  |
 
 ### CVPR2021
 
