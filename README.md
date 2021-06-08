@@ -11,7 +11,7 @@ We would like to maintain a complete list of super-resolution papers.
 ### Important
 |Year |  Title  |  Code   |
 |:--------|:--------|:--------:|
-| 2020 | [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020)](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  |   |
+| 2020 | [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https: //arxiv.org/abs/2012.02181)  | https: //github.com/ckkelvinchan/BasicVSR-IconVSR  |
 | 2020 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020)](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  |   |
 | 2020 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020)](https://arxiv.org/abs/2007.06002)  <br>*accepted at MICCAI 2020*  |   |
 | 2020 | [Modeling Task-based fMRI Data via Deep Belief Network with Neural Architecture Search(Qiang et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0895611120300501)  <br>*accepted at Computerized Medical Imaging and Graphics*  |   |
@@ -27,4 +27,10 @@ We would like to maintain a complete list of super-resolution papers.
 | 2019 | [AdaResU-Net: Multiobjective Adaptive Convolutional Neural Network for Medical Image Segmentation(Baldeon-Calisto and Lai-Yuen. 2019.)](https://www.sciencedirect.com/science/article/pii/S0925231219304679)  <br>*accepted at Neurocomputing*  |   |
 
 ### CVPR2021
- 
+
+|Year |  Title  |  Code   |
+|:--------|:--------|:--------:|
+| 2021 | [Deep Convolution Features in Non-linear Embedding Space for Fundus Image Classification(Dondeti et al. 2020)](http://www.iieta.org/journals/ria/paper/10.18280/ria.340308)  <br>*accepted at Revue d’Intelligence Artificielle*  |   |
+| 2020 | [Searching Collaborative Agents for Multi-plane Localization in 3D Ultrasound(Huang et al. 2020)](https://arxiv.org/abs/2007.15273)  <br>*accepted at MICCAI 2020*  |   |
+| 2020 | [Multi-Modality Information Fusion for Radiomics-based Neural Architecture Search(Peng et al. 2020)](https://arxiv.org/abs/2007.06002)  <br>*accepted at MICCAI 2020*  |   |
+| 2020 | [Modeling Task-based fMRI Data via Deep Belief Network with Neural Architecture Search(Qiang et al. 2020)](https://www.sciencedirect.com/science/article/abs/pii/S0895611120300501)  <br>*accepted at Computerized Medical Imaging and Graphics*  |   |
